@@ -1,0 +1,188 @@
+{
+  "flag_days": [
+    {
+      "name": "Kalevalan päivä, suomalaisen kulttuurin päivä",
+      "type": "official",
+      "flag_time": {
+        "start": "2025-02-28T08:00:00",
+        "end": "2025-02-28T21:00:00"
+      }
+    },
+    {
+      "name": "Vappu, suomalaisen työn päivä",
+      "type": "official",
+      "flag_time": {
+        "start": "2025-05-01T08:00:00",
+        "end": "2025-05-01T21:00:00"
+      }
+    },
+    {
+      "name": "Äitienpäivä",
+      "type": "official",
+      "flag_time": {
+        "start": "2025-05-11T08:00:00",
+        "end": "2025-05-11T21:00:00"
+      }
+    },
+    {
+      "name": "Puolustusvoimain lippujuhlan päivä",
+      "type": "official",
+      "flag_time": {
+        "start": "2025-06-04T08:00:00",
+        "end": "2025-06-04T21:00:00"
+      }
+    },
+    {
+      "name": "Juhannuspäivä, Suomen lipun päivä",
+      "type": "official",
+      "flag_time": {
+        "start": "2025-06-20T18:00:00",
+        "end": "2025-06-21T21:00:00"
+      }
+    },
+    {
+      "name": "Isänpäivä",
+      "type": "official",
+      "flag_time": {
+        "start": "2025-11-09T08:00:00",
+        "end": "2025-11-09T21:00:00"
+      }
+    },
+    {
+      "name": "Itsenäisyyspäivä",
+      "type": "official",
+      "flag_time": {
+        "start": "2025-12-06T08:00:00",
+        "end": "2025-12-06T20:00:00"
+      }
+    },
+    {
+      "name": "Alue- ja kuntavaalit",
+      "type": "official",
+      "flag_time": {
+        "start": "2025-04-13T08:00:00",
+        "end": "2025-04-13T20:00:00"
+      }
+    },
+    {
+      "name": "J. L. Runebergin päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-02-05T08:00:00",
+        "end": "2025-02-05T21:00:00"
+      }
+    },
+    {
+      "name": "Minna Canthin päivä, tasa-arvon päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-03-19T08:00:00",
+        "end": "2025-03-19T21:00:00"
+      }
+    },
+    {
+      "name": "Mikael Agricolan päivä, suomen kielen päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-04-09T08:00:00",
+        "end": "2025-04-09T21:00:00"
+      }
+    },
+    {
+      "name": "Kansallinen veteraanipäivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-04-27T08:00:00",
+        "end": "2025-04-27T21:00:00"
+      }
+    },
+    {
+      "name": "Eurooppa-päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-05-09T08:00:00",
+        "end": "2025-05-09T21:00:00"
+      }
+    },
+    {
+      "name": "J. V. Snellmanin päivä, suomalaisuuden päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-05-12T08:00:00",
+        "end": "2025-05-12T21:00:00"
+      }
+    },
+    {
+      "name": "Kaatuneitten muistopäivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-05-18T08:00:00",
+        "end": "2025-05-18T21:00:00"
+      }
+    },
+    {
+      "name": "Eino Leinon päivä, runon ja suven päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-07-06T08:00:00",
+        "end": "2025-07-06T21:00:00"
+      }
+    },
+    {
+      "name": "Suomen luonnon päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-08-30T08:00:00",
+        "end": "2025-08-30T21:00:00"
+      }
+    },
+    {
+      "name": "Miina Sillanpään ja kansalaisvaikuttamisen päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-10-01T08:00:00",
+        "end": "2025-10-01T21:00:00"
+      }
+    },
+    {
+      "name": "Aleksis Kiven päivä, suomalaisen kirjallisuuden päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-10-10T08:00:00",
+        "end": "2025-10-10T21:00:00"
+      }
+    },
+    {
+      "name": "Yhdistyneiden Kansakuntien päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-10-24T08:00:00",
+        "end": "2025-10-24T21:00:00"
+      }
+    },
+    {
+      "name": "Ruotsalaisuuden päivä, Kustaa Aadolfin päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-11-06T08:00:00",
+        "end": "2025-11-06T21:00:00"
+      }
+    },
+    {
+      "name": "Lapsen oikeuksien päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-11-20T08:00:00",
+        "end": "2025-11-20T21:00:00"
+      }
+    },
+    {
+      "name": "Jean Sibeliuksen päivä, suomalaisen musiikin päivä",
+      "type": "established",
+      "flag_time": {
+        "start": "2025-12-08T08:00:00",
+        "end": "2025-12-08T21:00:00"
+      }
+    }
+  ]
+}
