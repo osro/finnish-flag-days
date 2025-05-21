@@ -1,0 +1,13 @@
+{
+    "config": {
+        "abort": {
+            "single_instance_allowed": "Only a single configuration of Finnish Flag Days is allowed."
+        },
+        "step": {
+            "user": {
+                "description": "Set up Finnish Flag Days integration.",
+                "title": "Finnish Flag Days"
+            }
+        }
+    }
+}

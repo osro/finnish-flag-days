@@ -1,0 +1,13 @@
+{
+    "config": {
+        "abort": {
+            "single_instance_allowed": "Vain yksi Finnish Flag Days -integraation asetus on sallittu."
+        },
+        "step": {
+            "user": {
+                "description": "Aseta Finnish Flag Days -integraatio.",
+                "title": "Suomen liputuspäivät"
+            }
+        }
+    }
+}
